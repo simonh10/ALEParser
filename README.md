@@ -1,7 +1,7 @@
 ALEParser
 =========
 
-A simple python ALE (AvidLogExchange) parser.
+A simple python ALE (AvidLogExchange) parser. Updated to work in both python2 and python3.
 
 
 About
